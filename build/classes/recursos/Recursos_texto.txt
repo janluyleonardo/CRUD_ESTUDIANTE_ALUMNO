@@ -1,0 +1,53 @@
+Programaci�n avanzada
+
+Docente: ing. Walter Yesid ortiz
+
+ 
+
+Actividad:
+
+Realizar una aplicaci�n donde se pueda generar un registro de estudiantes y las clases que est�n cursando, 
+tiene que cumplir los siguientes par�metros.
+
+    Registrar los datos del estudiante.
+        (Nombres ->ya, 
+        Apellidos -> ya, 
+        TI o CC -> ya , 
+        Ciudad ->ya, 
+        Departamento-> ya, 
+        Clase, -> ya
+        Horario de la clase, -> ya
+        Fecha de ingreso). -> ya
+
+    Registrar los datos del docente. 
+        (Nombres, -> ya
+        Apellidos, -> ya
+        TI o CC, -> ya
+        Ciudad, -> ya
+        Departamento,-> ya 
+        Clase, -> ya
+        Horario de la clase, -> ya
+        Fecha de ingreso).-> ya
+    Formulario por clase. 
+        (Nombre de la materia,  
+        Docente, Estudiantes, 
+        5 notas por estudiante, 
+        Nota final (El promedio de las 5 notas)).
+    Los datos se deben mostrar en tablas. 
+        (Se colocan los datos m�s relevantes por tabla).
+    Debe haber la posibilidad de: 
+        ingresar,   
+        modificar, 
+        eliminar, 
+        buscar los datos en cada formulario.
+    Los datos deben estar relacionados entre s�, si se realiza alg�n cambio en un formulario debe ser reflejado en los dem�s.
+    La aplicaci�n debe estar enlazada con una base de datos y almacenada en un servidos. (XAMPP, WAMPSERVER u otro que desee).
+    Se debe desarrollar en JAVA o C#, indicando con anterioridad en que programa se va a desarrollar.
+    Debe estar acompa�ado con un manual de funcionamiento.
+ 
+
+NOTA:
+
+El trabajo se puede realizar de manera individual o por parejas.
+
+Se va calificar el funcionamiento, cumplimiento de los par�metros, est�tica, uso de herramientas y presentaci�n del proyecto.
